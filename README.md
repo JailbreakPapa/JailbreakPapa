@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JailbreakPapa
-- 👀 I’m interested in ... Comp science 
-- 🌱 I’m currently learning ... c++/OpenGl
+- 👀 I’m interested in ... Graphics Programming
+- 🌱 I’m currently learning ... c++/DirectX
 - 💞️ I’m looking to collaborate on ...Engines
 - 📫 How to reach me ...mike.amanfo12@gmail.com
 
