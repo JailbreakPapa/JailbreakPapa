@@ -21,6 +21,7 @@
 - 📫 How to reach me **mike.amanfo12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- Discord: scrumpy._.
 <p align="left">
 </p>
 
