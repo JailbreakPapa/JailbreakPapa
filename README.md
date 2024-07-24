@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mikael K.</h1>
-<h3 align="center">A random dude who loves game engines & graphic programming with a passion.</h3>
+<h3 align="center">A random dude who loves game engines & graphics programming with a passion.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jailbreakpapa&label=Profile%20views&color=0e75b6&style=flat" alt="jailbreakpapa" /> </p>
 
